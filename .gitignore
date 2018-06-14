@@ -1,0 +1,4 @@
+shawon
+*.pyc
+.DS_Store
+.env
